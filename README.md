@@ -1,2 +1,5 @@
-# ai_concepts
-Maintained the list of videos which is useful to build AI basics.
+# Artificial Intelligence Concepts
+|  Topic        | Video link |
+|---------------| ---------- |
+| **1. What is AI?** | [Click here](https://www.youtube.com/MokarbeenAnsari) |
+
